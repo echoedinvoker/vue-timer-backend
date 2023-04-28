@@ -1,24 +1,21 @@
 const express = require("express");
+const morgan = require("morgan")
 const cors = require('cors');
-const fetch = require('node-fetch')
-
-const uuid = '45ac8080-4e05-48ea-9567-2c70cc482fab'
-
+const paramsRouter = require("./routes/paramsRouter");
 const app = express()
 
-
+if(process.env.NODE_ENV === 'development') {
+  app.use(morgan('dev'))
+}
 app.use(cors())
+app.use(express.json())
 
-
-app.get("/", async (req, res) => {
-  
-  const response = await fetch(`http://localhost:3000/api?uuid=${uuid}`)
-  console.log(response)
-
-  res.status(200).send('test')
+app.use((req, res, next) => {
+  req.requestTime = new Date().toISOString()
+  next()
 })
 
-const port = 4000
-app.listen(port, () => {
-  console.log(`App running on port ${port}...`)
-})
+app.use("/api/v1/params", paramsRouter)
+
+module.exports = app
+
