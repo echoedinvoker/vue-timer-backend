@@ -1,7 +1,7 @@
 const express = require("express");
 const morgan = require("morgan")
 const cors = require('cors');
-const paramsRouter = require("./routes/paramsRouter");
+const lectureRouter = require("./routes/lectureRouter");
 const app = express()
 
 if(process.env.NODE_ENV === 'development') {
@@ -15,7 +15,7 @@ app.use((req, res, next) => {
   next()
 })
 
-app.use("/api/v1/params", paramsRouter)
+app.use("/api/v1/lecture", lectureRouter)
 
 module.exports = app
 
