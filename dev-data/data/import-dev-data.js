@@ -15,16 +15,25 @@ mongoose.connect(process.env.DATABASE_LOCAL, {
   console.log('DB connection successful!')
 })
 
-const lectures = JSON.parse(fs.readFileSync(`${__dirname}/htmlcss.json`, 'utf8'))
 
-const patchFirstBeTargeted = async () => {
-  Lecture.findOneAndUpdate(
-    {}, 
-    { $set: { target: true } }, 
-    { new: true }, 
-    function(err) {
-      if (err) throw err;
-    });
+const reload = async () => {
+  try {
+    // Delete all lectures in the collection
+    await Lecture.deleteMany()
+
+    // Get json file names
+    const files = fs.readdirSync('./')
+    const jsonFiles = files.filter(r => r.split('.').at(-1) === 'json')
+
+    // Import all lectures into the collection
+    for(f of jsonFiles) {
+      const lectures = JSON.parse(fs.readFileSync(`${__dirname}/${f}`, 'utf8'))
+      await Lecture.insertMany(lectures)
+    }
+  } catch (error) {
+    error.message
+  }
+
   process.exit()
 }
 
@@ -41,7 +50,7 @@ const deleteData = async () => {
   try {
     await Lecture.deleteMany()
     console.log('Data successfully deleted!')
-  } catch (error) {
+  } catch (error) { 
     console.log(error)
   }
   process.exit()
@@ -53,4 +62,6 @@ if(process.argv[2] === '--import') {
   deleteData()
 } else if(process.argv[2] === '--turn-first-targeted') {
   patchFirstBeTargeted()
+} else {
+  reload()
 }

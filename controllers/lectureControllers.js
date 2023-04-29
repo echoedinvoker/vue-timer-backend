@@ -65,13 +65,13 @@ exports.getLecturesStates = async (_, res) => {
             $sum: '$timeSpend'
           }
         }
-      }
+      },
     ])
 
     res.status(200).json({
       status: "success",
       data: {
-        stats: stats
+        stats
       }
     })
   } catch (error) {
@@ -80,6 +80,54 @@ exports.getLecturesStates = async (_, res) => {
       message: error.message
     })
   }
+}
+
+exports.targetSubject = async (req, res) => {
+  const sub = req.params.subject
+
+  try {
+    await Lecture.updateMany({target: false})
+    const result = await Lecture.find({subject: sub}).sort('_id').findOne().updateOne({target: true})
+
+    res.status(200).json({
+      status: "success",
+      result
+    })
+  } catch (error) {
+    res.status(400).json({
+      status: "fail",
+      message: error.message
+    })
+  }
+}
+
+exports.firstPerSubject = async (_, res) => {
+  try {
+    const result = await Lecture.aggregate([
+      {
+        $group: {
+          _id: '$subject',
+          firstID: {
+            $first: '$_id'
+          },
+          firstLecture: {
+            $first: '$lecture'
+          },
+        }
+      }
+    ])
+
+    res.status(200).json({
+      status: "success",
+      result
+    })
+  } catch (error) {
+    res.status(400).json({
+      status: "fail",
+      message: error.message
+    })
+  }
+
 }
 
 
