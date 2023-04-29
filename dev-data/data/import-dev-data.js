@@ -16,7 +16,17 @@ mongoose.connect(process.env.DATABASE_LOCAL, {
 })
 
 const lectures = JSON.parse(fs.readFileSync(`${__dirname}/htmlcss.json`, 'utf8'))
-console.log(lectures.length)
+
+const patchFirstBeTargeted = async () => {
+  Lecture.findOneAndUpdate(
+    {}, 
+    { $set: { target: true } }, 
+    { new: true }, 
+    function(err) {
+      if (err) throw err;
+    });
+  process.exit()
+}
 
 const importMany = async () => {
   try {
@@ -41,4 +51,6 @@ if(process.argv[2] === '--import') {
   importMany()
 } else if(process.argv[2] === '--delete') {
   deleteData()
+} else if(process.argv[2] === '--turn-first-targeted') {
+  patchFirstBeTargeted()
 }

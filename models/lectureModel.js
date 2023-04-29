@@ -28,7 +28,8 @@ const lectureSchema = new mongoose.Schema({
   chapterPath: {
     type: String,
     lowercase: true,
-    required: true
+    required: true,
+    select: false
   },
   lecture: {
     type: String,
@@ -37,7 +38,8 @@ const lectureSchema = new mongoose.Schema({
   lecturePath: {
     type: String,
     lowercase: true,
-    required: true
+    required: true,
+    select: false
   },
   length: {
     type: Number,
@@ -88,7 +90,11 @@ const lectureSchema = new mongoose.Schema({
       type: Boolean,
       default: false
     }
-  }]
+  }],
+  __v: {
+    type: Number,
+    select: false
+  }
 })
 
 const Lecture = mongoose.model("lecture", lectureSchema)
