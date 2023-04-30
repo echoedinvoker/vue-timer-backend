@@ -2,6 +2,7 @@ const express = require("express");
 const morgan = require("morgan")
 const cors = require('cors');
 const lectureRouter = require("./routes/lectureRouter");
+const bashRouter = require("./routes/bashRouter");
 const app = express()
 
 if(process.env.NODE_ENV === 'development') {
@@ -16,6 +17,7 @@ app.use((req, res, next) => {
 })
 
 app.use("/api/v1/lecture", lectureRouter)
+app.use("/api/v1/bash", bashRouter)
 
 module.exports = app
 
