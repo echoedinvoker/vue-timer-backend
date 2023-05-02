@@ -7,9 +7,9 @@ mongoose.connect(process.env.DATABASE_LOCAL, {
   useFindAndModify: false,
   useUnifiedTopology: true
 }).then(con => {
-    console.log(con.connection)
-    console.log('DB connection successful!')
-  })
+  console.log(con.connection)
+  console.log('DB connection successful!')
+})
 
 const lectureSchema = new mongoose.Schema({
   subject: {
@@ -29,7 +29,6 @@ const lectureSchema = new mongoose.Schema({
     type: String,
     lowercase: true,
     required: true,
-    select: false
   },
   lecture: {
     type: String,
@@ -39,7 +38,6 @@ const lectureSchema = new mongoose.Schema({
     type: String,
     lowercase: true,
     required: true,
-    select: false
   },
   length: {
     type: Number,
@@ -47,7 +45,7 @@ const lectureSchema = new mongoose.Schema({
   },
   status: {
     type: String,
-    enum: ['new','done','skipped','process'],
+    enum: ['new', 'done', 'skipped', 'process'],
     default: 'new'
   },
   type: {
