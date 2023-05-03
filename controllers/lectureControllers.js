@@ -194,7 +194,7 @@ exports.getLectures = async (req, res) => {
 
     const skip = (page - 1) * limit
 
-    query = query.skip(skip).limit(limit)
+    // query = query.skip(skip).limit(limit)
 
     // non-exist page handler
     if (req.query.page) {

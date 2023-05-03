@@ -19,5 +19,27 @@ mkdir -p "$TARGET_DIR/pic"
 gnome-terminal --working-directory="$TARGET_DIR" -e "nvim memo.md"
 google-chrome --new-window "$TARGET_URL"
 
+
+# Move vue-timer to ws0 corner
+WIN_ID=$(wmctrl -l | grep -E ' vue-timer' | awk '{print $1}')
+
+if [ -n "$WIN_ID" ]; then
+    wmctrl -ir $WIN_ID -t 0
+    wmctrl -ir $WIN_ID -e 0,1670,940,-1,-1
+    wmctrl -ir $WIN_ID -b add,above
+else
+    echo "Window 'vue-timer' not found."
+fi
+
+# Move Udemy window to ws0, but if its on other monitor, this will fail
+
+WIN_ID=$(wmctrl -l | grep -E ' Udemy' | awk '{print $1}')
+
+if [ -n "$WIN_ID" ]; then
+    wmctrl -ir $WIN_ID -t 0
+    wmctrl -ir $WIN_ID -b add,fullscreen
+fi
+
+
 # wmctrl -l | grep -i "Udemy" | awk '{print $1}' | while read -r line | wmctrl -i -r "$line" -t 0 ## don't need any more, but this can be a reference
 
