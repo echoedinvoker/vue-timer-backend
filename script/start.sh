@@ -16,7 +16,7 @@ done
 
 # Open a new terminal window and go to the target directory
 mkdir -p "$TARGET_DIR/pic"
-gnome-terminal --working-directory="$TARGET_DIR" -e "nvim memo.md"
+gnome-terminal --working-directory="$TARGET_DIR" -e "nvim $TARGET_DIR/memo.md"
 google-chrome --new-window "$TARGET_URL"
 
 
