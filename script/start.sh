@@ -2,7 +2,7 @@
 
 # Check if the target directory is provided as an argument
 if [ "$#" -eq 2 ]; then
-    TARGET_DIR="$1"
+    TARGET_DIR="$j1"
     TARGET_URL="$2"
 else
     echo "Usage: ./open_terminal.sh /path/to/your/directory"
@@ -26,7 +26,7 @@ WIN_ID=$(wmctrl -l | grep -E ' vue-timer' | awk '{print $1}')
 if [ -n "$WIN_ID" ]; then
     wmctrl -ir $WIN_ID -t 0
     wmctrl -ir $WIN_ID -e 0,1670,940,-1,-1
-    wmctrl -ir $WIN_ID -b add,above
+    wmctrl -ir $WIN_ID -b add,above,sticky
 else
     echo "Window 'vue-timer' not found."
 fi

@@ -87,7 +87,7 @@ exports.targetSubject = async (req, res) => {
 
   try {
     await Lecture.updateMany({target: false})
-    const result = await Lecture.find({subject: sub}).sort('_id').findOne().updateOne({target: true})
+    const result = await Lecture.find({subject: sub, status: { $nin: ['done', 'skipped'] } }).sort('_id').findOne().updateOne({target: true})
 
     res.status(200).json({
       status: "success",
