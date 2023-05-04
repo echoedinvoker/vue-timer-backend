@@ -2,7 +2,7 @@
 
 # Check if the target directory is provided as an argument
 if [ "$#" -eq 2 ]; then
-    TARGET_DIR="$j1"
+    TARGET_DIR="$1"
     TARGET_URL="$2"
 else
     echo "Usage: ./open_terminal.sh /path/to/your/directory"
