@@ -19,18 +19,29 @@ mongoose.connect(process.env.DATABASE_LOCAL, {
 const reload = async () => {
   try {
     // Delete all lectures in the collection
-    await Lecture.deleteMany()
+    // await Lecture.deleteMany()
 
     // Get json file names
     const files = fs.readdirSync('./')
     const jsonFiles = files.filter(r => r.split('.').at(-1) === 'json')
 
     // Import all lectures into the collection
-    for(f of jsonFiles) {
+    for (f of jsonFiles) {
       const lectures = JSON.parse(fs.readFileSync(`${__dirname}/${f}`, 'utf8'))
-      await Lecture.insertMany(lectures)
+      const formatLectures = lectures.map(l => {
+        // const status = parseInt(l.lecturePath.split('-')[0]) < 82 ? 'done' : 'new'
+        if (!l.length) {
+          return {
+            ...l,
+            length: 0
+          }
+        }
+        return l
+      })
+      const result = await Lecture.insertMany(formatLectures)
     }
   } catch (error) {
+    console.log(error.message)
     error.message
   }
 
@@ -50,17 +61,17 @@ const deleteData = async () => {
   try {
     await Lecture.deleteMany()
     console.log('Data successfully deleted!')
-  } catch (error) { 
+  } catch (error) {
     console.log(error)
   }
   process.exit()
 }
 
-if(process.argv[2] === '--import') {
+if (process.argv[2] === '--import') {
   importMany()
-} else if(process.argv[2] === '--delete') {
+} else if (process.argv[2] === '--delete') {
   deleteData()
-} else if(process.argv[2] === '--turn-first-targeted') {
+} else if (process.argv[2] === '--turn-first-targeted') {
   patchFirstBeTargeted()
 } else {
   reload()

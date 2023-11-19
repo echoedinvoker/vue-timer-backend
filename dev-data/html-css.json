@@ -1,0 +1,1511 @@
+[{
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "1. Course Structure and Projects",
+	"lecturePath": "1-Course-Structure-and-Projects",
+	"length": 6,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/1-Course-Structure-and-Projects"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "2. Read Before You Start!",
+	"lecturePath": "2-Read-Before-You-Start",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/2-Read-Before-You-Start"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "3. Migration Guide to v2",
+	"lecturePath": "3-Migration-Guide-to-v2",
+	"length": 2,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/3-Migration-Guide-to-v2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "4. A High-Level Overview of Web Development",
+	"lecturePath": "4-A-HighLevel-Overview-of-Web-Development",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/4-A-HighLevel-Overview-of-Web-Development"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "5. Setting Up Our Code Editor",
+	"lecturePath": "5-Setting-Up-Our-Code-Editor",
+	"length": 9,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/5-Setting-Up-Our-Code-Editor"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "6. Your Very First Webpage!",
+	"lecturePath": "6-Your-Very-First-Webpage",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/6-Your-Very-First-Webpage"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "7. Downloading Course Material",
+	"lecturePath": "7-Downloading-Course-Material",
+	"length": 4,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/7-Downloading-Course-Material"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "1. Welcome and First Steps",
+	"chapterPath": "1-Welcome-and-First-Steps",
+	"lecture": "8. Watch Before You Start!",
+	"lecturePath": "8-Watch-Before-You-Start",
+	"length": 6,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/1-Welcome-and-First-Steps/8-Watch-Before-You-Start"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "9. Section Intro",
+	"lecturePath": "9-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/9-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "10. Introduction to HTML",
+	"lecturePath": "10-Introduction-to-HTML",
+	"length": 4,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/10-Introduction-to-HTML"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "11. HTML Document Structure",
+	"lecturePath": "11-HTML-Document-Structure",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/11-HTML-Document-Structure"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "12. Text Elements",
+	"lecturePath": "12-Text-Elements",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/12-Text-Elements"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "13. More Text Elements: Lists",
+	"lecturePath": "13-More-Text-Elements-Lists",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/13-More-Text-Elements-Lists"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "14. Images and Attributes",
+	"lecturePath": "14-Images-and-Attributes",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/14-Images-and-Attributes"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "15. Hyperlinks",
+	"lecturePath": "15-Hyperlinks",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/15-Hyperlinks"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "16. Structuring our Page",
+	"lecturePath": "16-Structuring-our-Page",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/16-Structuring-our-Page"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "17. A Note on Semantic HTML",
+	"lecturePath": "17-A-Note-on-Semantic-HTML",
+	"length": 6,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/17-A-Note-on-Semantic-HTML"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "18. Installing Additional VS Code Extensions",
+	"lecturePath": "18-Installing-Additional-VS-Code-Extensions",
+	"length": 7,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/18-Installing-Additional-VS-Code-Extensions"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "19. CHALLENGE #1",
+	"lecturePath": "19-CHALLENGE-1",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/19-CHALLENGE-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "2. HTML Fundamentals",
+	"chapterPath": "2-HTML-Fundamentals",
+	"lecture": "20. CHALLENGE #2",
+	"lecturePath": "20-CHALLENGE-2",
+	"length": 17,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/2-HTML-Fundamentals/20-CHALLENGE-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "21. Section Intro",
+	"lecturePath": "21-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/21-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "22. Introduction to CSS",
+	"lecturePath": "22-Introduction-to-CSS",
+	"length": 4,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/22-Introduction-to-CSS"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "23. Inline, Internal and External CSS",
+	"lecturePath": "23-Inline-Internal-and-External-CSS",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/23-Inline-Internal-and-External-CSS"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "24. Styling Text",
+	"lecturePath": "24-Styling-Text",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/24-Styling-Text"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "25. Combining Selectors",
+	"lecturePath": "25-Combining-Selectors",
+	"length": 9,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/25-Combining-Selectors"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "26. Class and ID Selectors",
+	"lecturePath": "26-Class-and-ID-Selectors",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/26-Class-and-ID-Selectors"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "27. Working With Colors",
+	"lecturePath": "27-Working-With-Colors",
+	"length": 24,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/27-Working-With-Colors"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "28. Pseudo-classes",
+	"lecturePath": "28-Pseudoclasses",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/28-Pseudoclasses"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "29. Styling Hyperlinks",
+	"lecturePath": "29-Styling-Hyperlinks",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/29-Styling-Hyperlinks"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "30. Using Chrome DevTools",
+	"lecturePath": "30-Using-Chrome-DevTools",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/30-Using-Chrome-DevTools"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "31. CSS Theory #1: Conflicts Between Selectors",
+	"lecturePath": "31-CSS-Theory-1-Conflicts-Between-Selectors",
+	"length": 17,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/31-CSS-Theory-1-Conflicts-Between-Selectors"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "32. CSS Theory #2: Inheritance and the Universal Selector",
+	"lecturePath": "32-CSS-Theory-2-Inheritance-and-the-Universal-Selector",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/32-CSS-Theory-2-Inheritance-and-the-Universal-Selector"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "33. CHALLENGE #1",
+	"lecturePath": "33-CHALLENGE-1",
+	"length": 18,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/33-CHALLENGE-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "34. CSS Theory #3: The CSS Box Model",
+	"lecturePath": "34-CSS-Theory-3-The-CSS-Box-Model",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/34-CSS-Theory-3-The-CSS-Box-Model"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "35. Using Margins and Paddings",
+	"lecturePath": "35-Using-Margins-and-Paddings",
+	"length": 22,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/35-Using-Margins-and-Paddings"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "36. Adding Dimensions",
+	"lecturePath": "36-Adding-Dimensions",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/36-Adding-Dimensions"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "37. Centering our Page",
+	"lecturePath": "37-Centering-our-Page",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/37-Centering-our-Page"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "38. CHALLENGE #2",
+	"lecturePath": "38-CHALLENGE-2",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/38-CHALLENGE-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "39. CSS Theory #4: Types of Boxes",
+	"lecturePath": "39-CSS-Theory-4-Types-of-Boxes",
+	"length": 22,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/39-CSS-Theory-4-Types-of-Boxes"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "40. CSS Theory #5: Absolute Positioning",
+	"lecturePath": "40-CSS-Theory-5-Absolute-Positioning",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/40-CSS-Theory-5-Absolute-Positioning"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "41. Pseudo-elements",
+	"lecturePath": "41-Pseudoelements",
+	"length": 17,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/41-Pseudoelements"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "42. Developer Skill #1: Googling and Reading Documentation",
+	"lecturePath": "42-Developer-Skill-1-Googling-and-Reading-Documentation",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/42-Developer-Skill-1-Googling-and-Reading-Documentation"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "43. Developer Skill #2: Debugging and Asking Questions",
+	"lecturePath": "43-Developer-Skill-2-Debugging-and-Asking-Questions",
+	"length": 22,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/43-Developer-Skill-2-Debugging-and-Asking-Questions"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "3. CSS Fundamentals",
+	"chapterPath": "3-CSS-Fundamentals",
+	"lecture": "44. CHALLENGE #3",
+	"lecturePath": "44-CHALLENGE-3",
+	"length": 20,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/3-CSS-Fundamentals/44-CHALLENGE-3"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "45. Section Intro",
+	"lecturePath": "45-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/45-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "46. The 3 Ways of Building Layouts",
+	"lecturePath": "46-The-3-Ways-of-Building-Layouts",
+	"length": 5,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/46-The-3-Ways-of-Building-Layouts"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "47. Using Floats",
+	"lecturePath": "47-Using-Floats",
+	"length": 17,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/47-Using-Floats"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "48. Clearing Floats",
+	"lecturePath": "48-Clearing-Floats",
+	"length": 7,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/48-Clearing-Floats"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "49. Building a Simple Float Layout",
+	"lecturePath": "49-Building-a-Simple-Float-Layout",
+	"length": 9,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/49-Building-a-Simple-Float-Layout"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "50. box-sizing: border-box",
+	"lecturePath": "50-boxsizing-borderbox",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/50-boxsizing-borderbox"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "51. CHALLENGE #1",
+	"lecturePath": "51-CHALLENGE-1",
+	"length": 20,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/51-CHALLENGE-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "52. Introduction to Flexbox",
+	"lecturePath": "52-Introduction-to-Flexbox",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/52-Introduction-to-Flexbox"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "53. A Flexbox Overview",
+	"lecturePath": "53-A-Flexbox-Overview",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/53-A-Flexbox-Overview"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "54. Spacing and Aligning Flex Items",
+	"lecturePath": "54-Spacing-and-Aligning-Flex-Items",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/54-Spacing-and-Aligning-Flex-Items"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "55. The flex Property",
+	"lecturePath": "55-The-flex-Property",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/55-The-flex-Property"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "56. Adding Flexbox to Our Project",
+	"lecturePath": "56-Adding-Flexbox-to-Our-Project",
+	"length": 20,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/56-Adding-Flexbox-to-Our-Project"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "57. Building a Simple Flexbox Layout",
+	"lecturePath": "57-Building-a-Simple-Flexbox-Layout",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/57-Building-a-Simple-Flexbox-Layout"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "58. CHALLENGE #2",
+	"lecturePath": "58-CHALLENGE-2",
+	"length": 14,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/58-CHALLENGE-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "59. Introduction to CSS Grid",
+	"lecturePath": "59-Introduction-to-CSS-Grid",
+	"length": 11,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/59-Introduction-to-CSS-Grid"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "60. A CSS Grid Overview",
+	"lecturePath": "60-A-CSS-Grid-Overview",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/60-A-CSS-Grid-Overview"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "61. Sizing Grid Columns and Rows",
+	"lecturePath": "61-Sizing-Grid-Columns-and-Rows",
+	"length": 14,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/61-Sizing-Grid-Columns-and-Rows"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "62. Placing and Spanning Grid Items",
+	"lecturePath": "62-Placing-and-Spanning-Grid-Items",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/62-Placing-and-Spanning-Grid-Items"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "63. Aligning Grid Items and Tracks",
+	"lecturePath": "63-Aligning-Grid-Items-and-Tracks",
+	"length": 14,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/63-Aligning-Grid-Items-and-Tracks"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "64. Building a Simple CSS Grid Layout",
+	"lecturePath": "64-Building-a-Simple-CSS-Grid-Layout",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/64-Building-a-Simple-CSS-Grid-Layout"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+	"chapterPath": "4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals",
+	"lecture": "65. CHALLENGE #3",
+	"lecturePath": "65-CHALLENGE-3",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/4-Layouts-Floats-Flexbox-and-CSS-Grid-Fundamentals/65-CHALLENGE-3"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "66. Section Intro",
+	"lecturePath": "66-Section-Intro",
+	"length": 2,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/66-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "67. Project Overview",
+	"lecturePath": "67-Project-Overview",
+	"length": 6,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/67-Project-Overview"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "68. Overview of Web Design and Website Personalities",
+	"lecturePath": "68-Overview-of-Web-Design-and-Website-Personalities",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/68-Overview-of-Web-Design-and-Website-Personalities"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "69. Web Design Rules #1: Typography",
+	"lecturePath": "69-Web-Design-Rules-1-Typography",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/69-Web-Design-Rules-1-Typography"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "70. Implementing Typography",
+	"lecturePath": "70-Implementing-Typography",
+	"length": 23,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/70-Implementing-Typography"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "71. Web Design Rules #2: Colors",
+	"lecturePath": "71-Web-Design-Rules-2-Colors",
+	"length": 14,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/71-Web-Design-Rules-2-Colors"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "72. Implementing Colors",
+	"lecturePath": "72-Implementing-Colors",
+	"length": 18,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/72-Implementing-Colors"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "73. Web Design Rules #3: Images and Illustrations",
+	"lecturePath": "73-Web-Design-Rules-3-Images-and-Illustrations",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/73-Web-Design-Rules-3-Images-and-Illustrations"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "74. Web Design Rules #4: Icons",
+	"lecturePath": "74-Web-Design-Rules-4-Icons",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/74-Web-Design-Rules-4-Icons"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "75. Implementing Icons",
+	"lecturePath": "75-Implementing-Icons",
+	"length": 22,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/75-Implementing-Icons"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "76. Web Design Rules #5: Shadows",
+	"lecturePath": "76-Web-Design-Rules-5-Shadows",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/76-Web-Design-Rules-5-Shadows"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "77. Implementing Shadows",
+	"lecturePath": "77-Implementing-Shadows",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/77-Implementing-Shadows"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "78. Web Design Rules #6: Border-radius",
+	"lecturePath": "78-Web-Design-Rules-6-Borderradius",
+	"length": 5,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/78-Web-Design-Rules-6-Borderradius"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "79. Implementing Border-radius",
+	"lecturePath": "79-Implementing-Borderradius",
+	"length": 7,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/79-Implementing-Borderradius"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "80. Web Design Rules #7: Whitespace",
+	"lecturePath": "80-Web-Design-Rules-7-Whitespace",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/80-Web-Design-Rules-7-Whitespace"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "81. Web Design Rules #8: Visual Hierarchy",
+	"lecturePath": "81-Web-Design-Rules-8-Visual-Hierarchy",
+	"length": 23,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/81-Web-Design-Rules-8-Visual-Hierarchy"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "82. Implementing Whitespace and Visual Hierarchy",
+	"lecturePath": "82-Implementing-Whitespace-and-Visual-Hierarchy",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/82-Implementing-Whitespace-and-Visual-Hierarchy"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "83. Web Design Rules #9: User Experience (UX)",
+	"lecturePath": "83-Web-Design-Rules-9-User-Experience-UX",
+	"length": 21,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/83-Web-Design-Rules-9-User-Experience-UX"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "84. The Website-Personalities-Framework",
+	"lecturePath": "84-The-WebsitePersonalitiesFramework",
+	"length": 31,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/84-The-WebsitePersonalitiesFramework"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "5. Web Design Rules and Framework",
+	"chapterPath": "5-Web-Design-Rules-and-Framework",
+	"lecture": "85. The Missing Piece: Steal Like An Artist!",
+	"lecturePath": "85-The-Missing-Piece-Steal-Like-An-Artist",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/5-Web-Design-Rules-and-Framework/85-The-Missing-Piece-Steal-Like-An-Artist"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "86. Section Intro",
+	"lecturePath": "86-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/86-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "87. Web Design Rules #10 - Part 1: Elements and Components",
+	"lecturePath": "87-Web-Design-Rules-10-Part-1-Elements-and-Components",
+	"length": 28,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/87-Web-Design-Rules-10-Part-1-Elements-and-Components"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "88. Building an Accordion Component - Part 1",
+	"lecturePath": "88-Building-an-Accordion-Component-Part-1",
+	"length": 26,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/88-Building-an-Accordion-Component-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "89. Building an Accordion Component - Part 2",
+	"lecturePath": "89-Building-an-Accordion-Component-Part-2",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/89-Building-an-Accordion-Component-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "90. Building a Carousel Component - Part 1",
+	"lecturePath": "90-Building-a-Carousel-Component-Part-1",
+	"length": 21,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/90-Building-a-Carousel-Component-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "91. Building a Carousel Component - Part 2",
+	"lecturePath": "91-Building-a-Carousel-Component-Part-2",
+	"length": 30,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/91-Building-a-Carousel-Component-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "92. Building a Table Component - Part 1",
+	"lecturePath": "92-Building-a-Table-Component-Part-1",
+	"length": 10,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/92-Building-a-Table-Component-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "93. Building a Table Component - Part 2",
+	"lecturePath": "93-Building-a-Table-Component-Part-2",
+	"length": 13,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/93-Building-a-Table-Component-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "94. CHALLENGE #1: Building a Pagination Component",
+	"lecturePath": "94-CHALLENGE-1-Building-a-Pagination-Component",
+	"length": 24,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/94-CHALLENGE-1-Building-a-Pagination-Component"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "95. Web Design Rules #10 - Part 2: Layout Patterns",
+	"lecturePath": "95-Web-Design-Rules-10-Part-2-Layout-Patterns",
+	"length": 22,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/95-Web-Design-Rules-10-Part-2-Layout-Patterns"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "96. Building a Hero Section - Part 1",
+	"lecturePath": "96-Building-a-Hero-Section-Part-1",
+	"length": 22,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/96-Building-a-Hero-Section-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "97. Building a Hero Section - Part 2",
+	"lecturePath": "97-Building-a-Hero-Section-Part-2",
+	"length": 21,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/97-Building-a-Hero-Section-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "98. Building a Web Application Layout - Part 1",
+	"lecturePath": "98-Building-a-Web-Application-Layout-Part-1",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/98-Building-a-Web-Application-Layout-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "6. Components and Layout Patterns",
+	"chapterPath": "6-Components-and-Layout-Patterns",
+	"lecture": "99. Building a Web Application Layout - Part 2",
+	"lecturePath": "99-Building-a-Web-Application-Layout-Part-2",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/6-Components-and-Layout-Patterns/99-Building-a-Web-Application-Layout-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "100. Section Intro",
+	"lecturePath": "100-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/100-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "101. The 7 Steps to a Great Website",
+	"lecturePath": "101-The-7-Steps-to-a-Great-Website",
+	"length": 20,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/101-The-7-Steps-to-a-Great-Website"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "102. Defining and Planning the Project (Steps 1 and 2)",
+	"lecturePath": "102-Defining-and-Planning-the-Project-Steps-1-and-2",
+	"length": 25,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/102-Defining-and-Planning-the-Project-Steps-1-and-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "103. Sketching Initial Layout Ideas (Step 3)",
+	"lecturePath": "103-Sketching-Initial-Layout-Ideas-Step-3",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/103-Sketching-Initial-Layout-Ideas-Step-3"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "104. First Design and Development Steps (Step 4)",
+	"lecturePath": "104-First-Design-and-Development-Steps-Step-4",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/104-First-Design-and-Development-Steps-Step-4"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "105. Responsive Design Principles",
+	"lecturePath": "105-Responsive-Design-Principles",
+	"length": 9,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/105-Responsive-Design-Principles"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "106. How rem and max-width Work",
+	"lecturePath": "106-How-rem-and-maxwidth-Work",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/106-How-rem-and-maxwidth-Work"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "107. Building the Hero - Part 1",
+	"lecturePath": "107-Building-the-Hero-Part-1",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/107-Building-the-Hero-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "108. Building the Hero - Part 2",
+	"lecturePath": "108-Building-the-Hero-Part-2",
+	"length": 29,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/108-Building-the-Hero-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "109. Building the Hero - Part 3",
+	"lecturePath": "109-Building-the-Hero-Part-3",
+	"length": 24,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/109-Building-the-Hero-Part-3"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "110. Building the Header",
+	"lecturePath": "110-Building-the-Header",
+	"length": 15,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/110-Building-the-Header"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "111. Building the Navigation",
+	"lecturePath": "111-Building-the-Navigation",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/111-Building-the-Navigation"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "112. Setting Up a Reusable Grid",
+	"lecturePath": "112-Setting-Up-a-Reusable-Grid",
+	"length": 21,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/112-Setting-Up-a-Reusable-Grid"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "113. Building the How-It-Works Section - Part 1",
+	"lecturePath": "113-Building-the-HowItWorks-Section-Part-1",
+	"length": 29,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/113-Building-the-HowItWorks-Section-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "114. Building the How-It-Works Section - Part 2",
+	"lecturePath": "114-Building-the-HowItWorks-Section-Part-2",
+	"length": 35,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/114-Building-the-HowItWorks-Section-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "115. Building the Featured-In Section",
+	"lecturePath": "115-Building-the-FeaturedIn-Section",
+	"length": 20,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/115-Building-the-FeaturedIn-Section"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "116. Building the Meals Section - Part 1",
+	"lecturePath": "116-Building-the-Meals-Section-Part-1",
+	"length": 27,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/116-Building-the-Meals-Section-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "117. Building the Meals Section - Part 2",
+	"lecturePath": "117-Building-the-Meals-Section-Part-2",
+	"length": 21,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/117-Building-the-Meals-Section-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "118. Building the Meals Section - Part 3",
+	"lecturePath": "118-Building-the-Meals-Section-Part-3",
+	"length": 30,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/118-Building-the-Meals-Section-Part-3"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "119. Building the Testimonials Section - Part 1",
+	"lecturePath": "119-Building-the-Testimonials-Section-Part-1",
+	"length": 18,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/119-Building-the-Testimonials-Section-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "120. Building the Testimonials Section - Part 2",
+	"lecturePath": "120-Building-the-Testimonials-Section-Part-2",
+	"length": 25,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/120-Building-the-Testimonials-Section-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "121. Building the Pricing Section - Part 1",
+	"lecturePath": "121-Building-the-Pricing-Section-Part-1",
+	"length": 24,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/121-Building-the-Pricing-Section-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "122. Building the Pricing Section - Part 2",
+	"lecturePath": "122-Building-the-Pricing-Section-Part-2",
+	"length": 26,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/122-Building-the-Pricing-Section-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "123. Building the Features Part",
+	"lecturePath": "123-Building-the-Features-Part",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/123-Building-the-Features-Part"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "124. Building the Call-To-Action Section - Part 1",
+	"lecturePath": "124-Building-the-CallToAction-Section-Part-1",
+	"length": 26,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/124-Building-the-CallToAction-Section-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "125. Building the Call-To-Action Section - Part 2",
+	"lecturePath": "125-Building-the-CallToAction-Section-Part-2",
+	"length": 25,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/125-Building-the-CallToAction-Section-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "126. Building the Call-To-Action Section - Part 3",
+	"lecturePath": "126-Building-the-CallToAction-Section-Part-3",
+	"length": 29,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/126-Building-the-CallToAction-Section-Part-3"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "127. Building the Footer - Part 1",
+	"lecturePath": "127-Building-the-Footer-Part-1",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/127-Building-the-Footer-Part-1"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "7. Omnifood Project – Setup and Desktop Version",
+	"chapterPath": "7-Omnifood-Project-Setup-and-Desktop-Version",
+	"lecture": "128. Building the Footer - Part 2",
+	"lecturePath": "128-Building-the-Footer-Part-2",
+	"length": 28,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/7-Omnifood-Project-Setup-and-Desktop-Version/128-Building-the-Footer-Part-2"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "129. Section Intro",
+	"lecturePath": "129-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/129-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "130. How Media Queries Work",
+	"lecturePath": "130-How-Media-Queries-Work",
+	"length": 14,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/130-How-Media-Queries-Work"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "131. How to Select Breakpoints",
+	"lecturePath": "131-How-to-Select-Breakpoints",
+	"length": 5,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/131-How-to-Select-Breakpoints"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "132. Responding to Small Laptops",
+	"lecturePath": "132-Responding-to-Small-Laptops",
+	"length": 16,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/132-Responding-to-Small-Laptops"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "133. Responding to Landscape Tablets",
+	"lecturePath": "133-Responding-to-Landscape-Tablets",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/133-Responding-to-Landscape-Tablets"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "134. Responding to Tablets",
+	"lecturePath": "134-Responding-to-Tablets",
+	"length": 25,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/134-Responding-to-Tablets"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "135. Building the Mobile Navigation",
+	"lecturePath": "135-Building-the-Mobile-Navigation",
+	"length": 38,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/135-Building-the-Mobile-Navigation"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "136. Responding to Smaller Tablets",
+	"lecturePath": "136-Responding-to-Smaller-Tablets",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/136-Responding-to-Smaller-Tablets"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "8. Omnifood Project – Responsive Web Design",
+	"chapterPath": "8-Omnifood-Project-Responsive-Web-Design",
+	"lecture": "137. Responding to Phones",
+	"lecturePath": "137-Responding-to-Phones",
+	"length": 27,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/8-Omnifood-Project-Responsive-Web-Design/137-Responding-to-Phones"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "138. Section Intro",
+	"lecturePath": "138-Section-Intro",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/138-Section-Intro"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "139. A Short Introduction to JavaScript",
+	"lecturePath": "139-A-Short-Introduction-to-JavaScript",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/139-A-Short-Introduction-to-JavaScript"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "140. Making the Mobile Navigation Work",
+	"lecturePath": "140-Making-the-Mobile-Navigation-Work",
+	"length": 9,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/140-Making-the-Mobile-Navigation-Work"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "141. Implementing Smooth Scrolling",
+	"lecturePath": "141-Implementing-Smooth-Scrolling",
+	"length": 29,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/141-Implementing-Smooth-Scrolling"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "142. Implementing a Sticky Navigation Bar",
+	"lecturePath": "142-Implementing-a-Sticky-Navigation-Bar",
+	"length": 28,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/142-Implementing-a-Sticky-Navigation-Bar"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "143. Browser Support and Fixing Flexbox Gap in Safari",
+	"lecturePath": "143-Browser-Support-and-Fixing-Flexbox-Gap-in-Safari",
+	"length": 19,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/143-Browser-Support-and-Fixing-Flexbox-Gap-in-Safari"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "144. Testing Performance With Lighthouse",
+	"lecturePath": "144-Testing-Performance-With-Lighthouse",
+	"length": 9,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/144-Testing-Performance-With-Lighthouse"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "145. Adding Favicon and Meta Description",
+	"lecturePath": "145-Adding-Favicon-and-Meta-Description",
+	"length": 12,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/145-Adding-Favicon-and-Meta-Description"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "146. Image Optimizations",
+	"lecturePath": "146-Image-Optimizations",
+	"length": 18,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/146-Image-Optimizations"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "147. Deployment to Netlify",
+	"lecturePath": "147-Deployment-to-Netlify",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/147-Deployment-to-Netlify"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "9. Omnifood Project – Effects, Optimizations and Deployment",
+	"chapterPath": "9-Omnifood-Project-Effects-Optimizations-and-Deployment",
+	"lecture": "148. Making the Form Work With Netlify Forms",
+	"lecturePath": "148-Making-the-Form-Work-With-Netlify-Forms",
+	"length": 8,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/9-Omnifood-Project-Effects-Optimizations-and-Deployment/148-Making-the-Form-Work-With-Netlify-Forms"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "10. The End!",
+	"chapterPath": "10-The-End",
+	"lecture": "149. Where to Go from Here",
+	"lecturePath": "149-Where-to-Go-from-Here",
+	"length": 5,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/10-The-End/149-Where-to-Go-from-Here"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "10. The End!",
+	"chapterPath": "10-The-End",
+	"lecture": "150. My Other Courses + Updates",
+	"lecturePath": "150-My-Other-Courses-Updates",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/10-The-End/150-My-Other-Courses-Updates"
+}, {
+	"subject": "html-css",
+	"course": "Build Resopnsive Real-World Websites with HTML and CSS",
+	"chapter": "11. [LEGACY] Old Course Version 1",
+	"chapterPath": "11-LEGACY-Old-Course-Version-1",
+	"lecture": "151. Download the Old Course Version",
+	"lecturePath": "151-Download-the-Old-Course-Version",
+	"length": 1,
+	"teacher": "Jonas Schmedtmann",
+	"linkGit": "https://github.com/echoedinvoker/html-css/tree/master/11-LEGACY-Old-Course-Version-1/151-Download-the-Old-Course-Version"
+}]

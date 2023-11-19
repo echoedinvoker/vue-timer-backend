@@ -16,7 +16,8 @@ function executeScript(script) {
 // Example usage
 exports.start = async (req, res) => {
   try {
-    await executeScript(`${__dirname}/../script/start.sh ${req.body.dir} ${req.body.url}`)
+    // await executeScript(`${__dirname}/../script/start.sh ${req.body.dir} ${req.body.url}`)
+    await executeScript(`/home/matt/Documents/github/vue-timer-backend/script/start.sh ${req.body.dir} ${req.body.url}`)
 
     res.status(200).json({
       status: "success",
@@ -31,7 +32,7 @@ exports.start = async (req, res) => {
 
 exports.corner = async (_, res) => {
   try {
-    await executeScript(`${__dirname}/../script/corner.sh`)
+    await executeScript(`/home/matt/Documents/github/vue-timer-backend/script/corner.sh`)
 
     res.status(200).json({
       status: "success",
@@ -46,7 +47,7 @@ exports.corner = async (_, res) => {
 
 exports.cornerForm = async (_, res) => {
   try {
-    await executeScript(`${__dirname}/../script/cornerForm.sh`)
+    await executeScript(`/home/matt/Documents/github/vue-timer-backend/script/cornerForm.sh`)
 
     res.status(200).json({
       status: "success",
@@ -61,7 +62,7 @@ exports.cornerForm = async (_, res) => {
 
 exports.fullscreen = async (_, res) => {
   try {
-    await executeScript(`${__dirname}/../script/fullscreen.sh`)
+    await executeScript(`/home/matt/Documents/github/vue-timer-backend/script/fullscreen.sh`)
 
     res.status(200).json({
       status: "success",
@@ -73,3 +74,4 @@ exports.fullscreen = async (_, res) => {
     })
   }
 }
+
